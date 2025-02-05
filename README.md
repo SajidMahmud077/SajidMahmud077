@@ -47,8 +47,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidMahmud077&theme=radical" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidMahmud077&theme=tokyonight" height="180" alt="GitHub Profile Summary" />
 </div>
 
 ###
@@ -77,6 +80,7 @@
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
+
 
 
 ###
