@@ -92,7 +92,7 @@
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
   <div>
     <ul>
       <li>🌱 Exploring <b>Advanced Motion Graphics for the Web</b></li>
@@ -102,6 +102,7 @@
   </div>
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" height="100" style="margin-left: 15px;">
 </div>
+
 
 
 
