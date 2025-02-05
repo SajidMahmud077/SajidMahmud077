@@ -46,13 +46,29 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-   <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
+<h1 align="center">📊 GitHub Stats & Streak</h1>
 
- 
+###
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidMahmud077&theme=tokyonight" height="180" alt="GitHub Profile Summary" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMahmud077&theme=tokyonight&layout=compact&hide_border=true" height="180" alt="Top Languages" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=SajidMahmud077&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" height="180" alt="GitHub Trophies" />
+
 </div>
+
 
 ###
 
