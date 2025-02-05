@@ -102,7 +102,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" height="150">
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" height="250">
     </td>
   </tr>
 </table>
