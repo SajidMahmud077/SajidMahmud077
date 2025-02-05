@@ -18,19 +18,21 @@
 
 <h1 align="center">📊 GitHub Stats & Streak</h1>
 
-###
-
-<div align="center" style="display: flex; flex-row: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px;">
   
   <!-- GitHub Stats -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMahmud077)](https://github.com/SajidMahmud077/github-readme-stats)
- 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=tokyonight" alt="GitHub Streak" /></a>
- 
- 
-  
+  <a href="https://github.com/SajidMahmud077/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  </a>
 
 </div>
+
+
 
 
 
