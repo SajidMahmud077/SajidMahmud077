@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<h1 align="left">Hey 👋 What's up?</h1>
 
+https://github.com/SajidMahmud077/SajidMahmud077/blob/a5d2a87b12f8e68fa3f379be357b670b7ca0547e/githubbanner.jpg
 ###
 
 <h2 align="center">About me</h2>
