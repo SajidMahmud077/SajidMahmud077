@@ -94,7 +94,7 @@
 
 <table>
   <tr>
-    <td style="padding-right: 15px;">
+    <td style="padding-right: 35px;">
       <ul>
         <li>🌱 Exploring <b>Advanced Motion Graphics for the Web</b></li>
         <li>👯 Looking to <b>collaborate on open-source projects</b></li>
@@ -102,7 +102,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" height="100">
+      <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" height="150">
     </td>
   </tr>
 </table>
