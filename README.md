@@ -53,6 +53,8 @@
   
   <!-- Streak Stats -->
    <img src="https://user-images.githubusercontent.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png" height="180" alt="GitHub Streak" />
+ 
+    <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=highcontrast&hide_border=true&stroke=FFFFFF&background=000000" alt="GitHub Streak Stats" />
 
 
 </div>
