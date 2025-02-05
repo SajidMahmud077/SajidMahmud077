@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Sajid Mahmud is an aspiring web developer passionate about creating dynamic and user-friendly websites. Currently, he is exploring modern web technologies to sharpen his skills and build impactful digital experiences.</p>
+<p align="left">My name is Sajid Mahmud. I am an aspiring web developer passionate about creating dynamic and user-friendly websites. Currently, I am exploring modern web technologies to sharpen my skills and build impactful digital experiences.</p>
 
 ###
 
@@ -42,13 +42,28 @@
 
 ###
 
-<h1 align="center">🔗Connect With Me</h1>
+<h1 align="center">📊 GitHub Stats & Streak</h1>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidMahmud077&theme=radical" height="180" alt="GitHub Streak" />
+</div>
+
+###
+
+<h1 align="center">🔗 Connect With Me</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/yourfacebook/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
+  </a>
 </div>
 
 ###
@@ -57,10 +72,11 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
+<p align="left">🌱 I’m exploring - Advanced motion graphics for web.<br>👯 I’m looking - To collaborate on open source projects.<br>🤔 I’m trying - To learn and explore more about web development.</p>
 
 ###
 
-<p align="left">🌱 I’m exploring - Advance motion graphics for web.<br>👯 I’m looking - To collaborate on open source projects.<br>🤔 I’m trying -  learn and explore more about web development.</p>
+<img align="right" height="150" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
+
 
 ###
