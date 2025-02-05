@@ -94,15 +94,15 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    <h2>Hi there! 👋 I'm Sajid Mahmud</h2>
     <ul>
       <li>🌱 Exploring <b>Advanced Motion Graphics for the Web</b></li>
       <li>👯 Looking to <b>collaborate on open-source projects</b></li>
       <li>🤔 Learning & exploring <b>modern web development</b></li>
     </ul>
   </div>
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" width="130">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF" height="100" style="margin-left: 15px;">
 </div>
+
 
 
 
