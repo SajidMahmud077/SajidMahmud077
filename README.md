@@ -28,7 +28,8 @@
   </a>
 
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMahmud077&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMahmud077&layout=compact&langs_count=10)
+
  
 
 
