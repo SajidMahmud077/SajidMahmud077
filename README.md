@@ -18,7 +18,7 @@
 
 <h1 align="center">📊 GitHub Stats & Streak</h1>
 
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 25px;">
   
   <!-- GitHub Stats -->
   <a href="https://github.com/SajidMahmud077/github-readme-stats">
