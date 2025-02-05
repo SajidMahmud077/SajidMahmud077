@@ -23,10 +23,8 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
   <!-- GitHub Stats -->
-  <img src=" https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
-  
-  <!-- Streak Stats -->
-   <img src="https://SajidMahmud077-images.SajidMahmud077.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png" height="180" alt="GitHub Streak for SajidMahmud077" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMahmud077)](https://github.com/SajidMahmud077/github-readme-stats)
+ 
 
    <p align="center">
   <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=highcontrast&hide_border=true&stroke=FFFFFF&background=000000" alt="GitHub Streak Stats for SajidMahmud077" />
