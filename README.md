@@ -18,7 +18,35 @@
 
 <h1 align="center">📊 GitHub Stats & Streak</h1>
   <!-- GitHub Streak -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" /></a>
+
+  <!-- For Large Devices -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 0 0 48%; margin-bottom: 10px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" style="max-width: 100%; height: auto;">
+    </a>
+  </div>
+  <div style="flex: 0 0 48%; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark" alt="Repos per Language" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+<!-- For Medium and Smaller Devices (Stacking Cards) -->
+<div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="margin-bottom: 10px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" style="max-width: 100%; height: auto;">
+    </a>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark" alt="Repos per Language" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+
+
+  
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" /></a>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark)
@@ -30,14 +58,8 @@
   </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajidMahmud077&theme=aura_dark&utcOffset=8)
+ -->
 
-
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
-
-
-
-</div>
 
 
  
