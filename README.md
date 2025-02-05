@@ -21,10 +21,7 @@
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
   <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  </a>
-  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" /></a>
   <!-- GitHub Stats -->
   <a href="https://github.com/SajidMahmud077/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
