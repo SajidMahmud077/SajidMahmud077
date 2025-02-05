@@ -24,8 +24,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SajidMahmud077&theme=aura_dark)
-Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajidMahmud077&theme=aura_dark)
+  <!-- GitHub Stats -->
+  <a href="https://github.com/SajidMahmud077/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajidMahmud077&theme=aura_dark&utcOffset=8)
 
@@ -33,13 +35,10 @@ Markdown Usage
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/SajidMahmud077/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  </a>
+
 
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMahmud077&theme=tokyonight)
+
 
  
 
