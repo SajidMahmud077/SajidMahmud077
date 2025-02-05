@@ -25,11 +25,8 @@
   <!-- GitHub Stats -->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMahmud077)](https://github.com/SajidMahmud077/github-readme-stats)
  
-
-   <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=highcontrast&hide_border=true&stroke=FFFFFF&background=000000" alt="GitHub Streak Stats for SajidMahmud077" />
-</p>
-
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SajidMahmud077&theme=dark)](https://git.io/streak-stats)
+ 
  
   
 
