@@ -21,18 +21,28 @@
 
 
 
-  
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" /></a>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark)
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/SajidMahmud077/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  </a>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajidMahmud077&theme=aura_dark&utcOffset=8)
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark" alt="Repos per Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/SajidMahmud077/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajidMahmud077&theme=aura_dark&utcOffset=8" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 
 
