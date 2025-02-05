@@ -30,8 +30,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
   </a>
 
-
-
 </div>
 
 
