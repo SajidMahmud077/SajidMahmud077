@@ -20,7 +20,7 @@
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-row: wrap; justify-content: center; gap: 10px;">
   
   <!-- GitHub Stats -->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMahmud077)](https://github.com/SajidMahmud077/github-readme-stats)
