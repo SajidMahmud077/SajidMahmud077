@@ -40,11 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="46" alt="nextjs logo"  />
 </div>
 
-###
 
-<h1 align="center">📊 GitHub Stats & Streak</h1>
-
-###
 
 <h1 align="center">📊 GitHub Stats & Streak</h1>
 
@@ -56,14 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
   
   <!-- Streak Stats -->
-  <img [src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=transparent&hide_border=true" height="180" alt="GitHub Streak" />](https://streak-stats.demolab.com?user=SajidMahmud077&theme=transparent&hide_border=true
-)
-
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidMahmud077&theme=tokyonight" height="180" alt="GitHub Profile Summary" />
-
- 
-
+   <img src="https://user-images.githubusercontent.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png" height="180" alt="GitHub Streak" />
 
 
 </div>
