@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
   
   <!-- Streak Stats -->
-   <img src="https://user-images.githubusercontent.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png" height="180" alt="GitHub Streak" />
+   <img src="https://SajidMahmud077-images.githubusercontent.com/20955511/183303701-34bf6b33-812d-4afd-9c1f-70b04b2e486a.png" height="180" alt="GitHub Streak" />
 
    <p align="center">
   <img src="https://streak-stats.demolab.com?user=SajidMahmud077&theme=highcontrast&hide_border=true&stroke=FFFFFF&background=000000" alt="GitHub Streak Stats for SajidMahmud077" />
