@@ -19,42 +19,10 @@
 <h1 align="center">📊 GitHub Stats & Streak</h1>
   <!-- GitHub Streak -->
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
-  <!-- Card 1 -->
-  <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" style="max-width: 100%; height: auto;">
-    </a>
-  </div>
-  
-  <!-- Card 2 -->
-  <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark" alt="Repos per Language" style="max-width: 100%; height: auto;">
-  </div>
-
-  <!-- Card 3 -->
-  <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SajidMahmud077&theme=aura_dark" alt="Most Commit Language" style="max-width: 100%; height: auto;">
-  </div>
-  
-  <!-- Card 4 -->
-  <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <a href="https://github.com/SajidMahmud077/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" style="max-width: 100%; height: auto;">
-    </a>
-  </div>
-
-  <!-- Card 5 -->
-  <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajidMahmud077&theme=aura_dark&utcOffset=8" alt="Productive Time" style="max-width: 100%; height: auto;">
-  </div>
-</div>
-
-
 
 
   
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" /></a>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark)
@@ -66,7 +34,6 @@
   </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajidMahmud077&theme=aura_dark&utcOffset=8)
- -->
 
 
 
