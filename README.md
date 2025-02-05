@@ -17,6 +17,18 @@
 ###
 
 <h1 align="center">📊 GitHub Stats & Streak</h1>
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajidMahmud077&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajidMahmud077&theme=aura_dark)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SajidMahmud077&theme=aura_dark)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajidMahmud077&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajidMahmud077&theme=aura_dark)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SajidMahmud077&theme=aura_dark&utcOffset=8)
+
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
