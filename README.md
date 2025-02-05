@@ -24,11 +24,11 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" /></a>
   <!-- GitHub Stats -->
   <a href="https://github.com/SajidMahmud077/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?SajidMahmud077=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SajidMahmud077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
   </a>
 
 </div>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMahmud077&exclude_repo=github-readme-stats,SajidMahmud077.github.io)
+ 
 
 
 
