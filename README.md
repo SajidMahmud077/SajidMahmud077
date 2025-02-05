@@ -25,7 +25,7 @@
   <!-- GitHub Stats -->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMahmud077)](https://github.com/SajidMahmud077/github-readme-stats)
  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SajidMahmud077&theme=dark)](https://github.com/SajidMahmud077/github-readme-streak)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-peach.vercel.app?user=SajidMahmud077&theme=transparent" alt="GitHub Streak" /></a>
  
  
   
